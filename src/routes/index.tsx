@@ -33,7 +33,7 @@ import smashLavaBurgerImg from "../assets/spicy-foods-burger-hero.jpg";
 import lavaRollImg from "../assets/Mayo Garlic Roll.jpg";
 import mayoGarlicRollImg from "../assets/Mayo Garlic Roll.jpg";
 import chatniRollImg from "../assets/Chicken Chatni Roll.webp";
-import cheeseRollImg from "../assets/Cheese Paratha Roll.jpg";
+import cheeseRollImg from "../assets/Cheese-Paratha-Roll.jpg";
 
 import broastImg from "../assets/Crispy Broast Quarter.jpg";
 import wingsImg from "../assets/special-wings-6.jpg";
