@@ -18,9 +18,6 @@ import { useMemo, useState } from "react";
 import Swal from "sweetalert2";
 
 import heroBurger from "../assets/spicy-foods-burger-hero.jpg";
-import pizzaImage from "../assets/spicy-foods-pizza.jpg";
-import burgerImage from "../assets/spicy-foods-burger-card.jpg";
-import sidesImage from "../assets/spicy-foods-sides.jpg";
 
 import loadedSpicyPizzaImg from "../assets/loaded-special-pizza.jpg";
 import creamyTikkaPizzaImg from "../assets/Creamy Tikka Pizza.jpg";
